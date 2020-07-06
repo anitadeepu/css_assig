@@ -1,0 +1,52 @@
+p.dull{
+
+}
+
+.todo.urgent{
+
+}
+
+.todo, .urgent,{
+
+}
+
+article p:first-child{
+
+}
+
+a:visited{
+
+}
+
+article p::first-line{
+
+}
+
+article p:first-child::first-line{
+
+}
+
+body article p{
+
+}
+
+.box p{
+
+}
+
+article > p{
+
+}
+
+p + img{
+
+
+}
+
+p ~ img{
+
+}
+
+ul > li.special{
+
+}
